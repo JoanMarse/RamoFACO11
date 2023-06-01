@@ -1,0 +1,18 @@
+[
+   {
+      "name":"MAN Light Recon Vehicle",
+      "description":"The Light Recon Vehicle is a lightweigth 4x4 capable of enduring the harshest of terrains. It is powered by a Hydrogen engine, has airdropping capabilities and it´s armed with a single Gatling gun in a middle-mounted pintle.",
+      "usesmods":false,
+      "tags":[
+         "light",
+         "small"
+      ],
+      "imagesfront":[
+         "img/MAN LRV 1.jpg",
+         "img/MAN LRV 2.jpg",
+         "img/MAN LRV 3.jpg"
+      ],
+      "descriptiontechnical":"The LRV has a block count of 204 and a weight of 16 tons. It has 2 parachutes for air-dropping capabilities.",
+      "linksteam":"https://steamcommunity.com/sharedfiles/filedetails/?id=2862438370"
+   }
+]
