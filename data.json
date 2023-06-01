@@ -15,7 +15,7 @@
 	"linksteam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2862438370"
 }, {
 	"name": "MAN Light Attack Vehicle",
-	"description": "The Light Attack Vehicle is a lightweigth 4x4 capable of enduring the harshest of terrains. It is powered by a Hydrogen engine, has airdropping capabilities and it´s armed with a single Gatling gun in a middle-mounted pintle.",
+	"description": "The Light Attack Vehicle is an up-armored LRV 4x4 that trades protection for added firepower. It is powered by a Hydrogen engine, has airdropping capabilities and it´s armed with two Gatling gun pintles and a rocket launcher.",
 	"usesmods": false,
 	"tags": [
 		"light",
@@ -30,7 +30,7 @@
 	"linksteam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2862438370"
 }, {
 	"name": "MAN Recon Vertical Take-off & Landing",
-	"description": "The Light Recon Vehicle is a lightweigth 4x4 capable of enduring the harshest of terrains. It is powered by a Hydrogen engine, has airdropping capabilities and it´s armed with a single Gatling gun in a middle-mounted pintle.",
+	"description": "The RVTOL is a light ship capable of  hovering and reconnoissance. It is powered by a reactor, has airdropping capabilities and it´s armed with twin Gatling guns ",
 	"usesmods": false,
 	"tags": [
 		"light",
