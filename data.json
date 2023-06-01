@@ -3,7 +3,7 @@
 	"description": "The Light Recon Vehicle is a lightweigth 4x4 capable of enduring the harshest of terrains. It is powered by a Hydrogen engine, has airdropping capabilities and it´s armed with a single Gatling gun in a middle-mounted pintle.",
 	"usesmods": false,
 	"tags": [
-		"light",
+		"rover",
 		"small"
 	],
 	"imagesfront": [
@@ -18,7 +18,7 @@
 	"description": "The Light Attack Vehicle is an up-armored LRV 4x4 that trades protection for added firepower. It is powered by a Hydrogen engine, has airdropping capabilities and it´s armed with two Gatling gun pintles and a rocket launcher.",
 	"usesmods": false,
 	"tags": [
-		"light",
+		"rover",
 		"small"
 	],
 	"imagesfront": [
@@ -33,7 +33,7 @@
 	"description": "The RVTOL is a light ship capable of  hovering and reconnoissance. It is powered by a reactor, has airdropping capabilities and it´s armed with twin Gatling guns ",
 	"usesmods": false,
 	"tags": [
-		"light",
+		"ship",
 		"small"
 	],
 	"imagesfront": [
